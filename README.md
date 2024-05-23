@@ -10,11 +10,9 @@ This project is a solution to a CS50x problem set that involves recovering JPEG 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
-- [Additional Resources](#additional-resources)
-- [License](#license)
 
 ## Installation
-No special installation is required for this project. Ensure you have a C compiler like `gcc` installed.
+No special installation is required for this project.
 
 ## Usage
 To compile and run the project, use the following commands:
